@@ -1,0 +1,6 @@
+D:\LAB5 ASS3>javac -cp .;%MPJ_HOME%/lib/mpj.jar DistributedSum.java
+D:\LAB5 ASS3>mpjrun.bat -np 2 DistributedSum
+MPJ Express (0.44) is started in the multicore configuration
+Processor 1 calculated sum = 40 Processor
+0 calculated sum = 15
+Total Sum = 55 
